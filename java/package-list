@@ -1,0 +1,17 @@
+org.mule.modules.stash
+org.mule.modules.stash.adapter
+org.mule.modules.stash.adapters
+org.mule.modules.stash.agents
+org.mule.modules.stash.api
+org.mule.modules.stash.api.client
+org.mule.modules.stash.api.client.transformers
+org.mule.modules.stash.config
+org.mule.modules.stash.connectivity
+org.mule.modules.stash.datasense
+org.mule.modules.stash.datasense.category
+org.mule.modules.stash.devkit
+org.mule.modules.stash.pagination
+org.mule.modules.stash.pooling
+org.mule.modules.stash.processors
+org.mule.modules.stash.strategy
+
